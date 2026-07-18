@@ -1,16 +1,89 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://api.iconify.design/fa6-regular/hand.svg?color=white" width="28" alt="Hi"> Hi, I'm Raphael Timothy <img src="https://api.iconify.design/fa6-solid/earth-africa.svg?color=white" width="28" alt="Africa">
+</h1>
 
-<!--
-**Azaria-Raphael/Azaria-Raphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Software Developer • Python/Django • Flutter</strong><br>
+  Building practical digital solutions for East Africa
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<strong>"Code reveals your resilience.We cannot digitize our future with theories built for someone else's infrastructure."</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## <img src="https://api.iconify.design/fa6-solid/user.svg?color=white" width="24" alt="About" align="center"> About Me
+
+I'm a **Software Developer** from **Tanzania** <img src="https://api.iconify.design/fa6-solid/earth-africa.svg?color=white" width="16" alt="Tanzania"> with a background in **Computer Science**, passionate about building practical digital solutions that solve real-world challenges.
+
+I enjoy transforming paper-based and inefficient workflows into **secure, scalable, and user-friendly systems** designed for environments where internet connectivity, device capability, and data affordability matter.
+
+My long-term mission is to create technology that is **accessible, reliable, and genuinely useful** for businesses, institutions, and communities across Africa.
+
+---
+
+## <img src="https://api.iconify.design/fa6-solid/code.svg?color=white" width="24" alt="Code" align="center"> Technology 
+
+| Area | Technologies |
+|------|--------------|
+| <img src="https://api.iconify.design/fa6-brands/python.svg?color=white" width="16" alt="Python"> Backend Development | Python, Django |
+| <img src="https://api.iconify.design/fa6-solid/mobile-screen.svg?color=white" width="16" alt="Mobile"> Mobile Development | Flutter |
+| <img src="https://api.iconify.design/fa6-solid/palette.svg?color=white" width="16" alt="Frontend"> Frontend Development | HTML,JS, Tailwind CSS |
+| <img src="https://api.iconify.design/fa6-solid/database.svg?color=white" width="16" alt="Database"> Database Design | PostgreSQL,MySql,Firebase |
+| <img src="https://api.iconify.design/fa6-solid/lock.svg?color=white" width="16" alt="Security"> Security | Authentication & Role-Based Access Control |
+| <img src="https://api.iconify.design/fa6-solid/robot.svg?color=white" width="16" alt="AI"> Emerging Technologies | Practical AI Integration |
+
+---
+
+## <img src="https://api.iconify.design/fa6-solid/diagram-project.svg?color=white" width="24" alt="Projects" align="center"> Current Projects
+
+### <img src="https://api.iconify.design/fa6-solid/book.svg?color=white" width="20" alt="Book"> Digital Reading Platform
+
+Developing an **offline-first reading platform** that enables Tanzanian authors and publishers to distribute and monetize digital books while reducing unauthorized distribution.
+
+---
+
+### <img src="https://api.iconify.design/fa6-solid/graduation-cap.svg?color=white" width="20" alt="Graduation Cap" > Practical Training Management System
+
+Building a web-based platform that streamlines **student placement, supervision, and institutional reporting** for higher learning institutions.
+
+---
+
+### <img src="https://api.iconify.design/fa6-solid/flask.svg?color=white" width="20" alt="Flask" align="center"> Engineering Practice
+
+Continuously strengthening my understanding of:
+
+- Software Architecture
+- REST APIs
+- Database Design
+- Cybersecurity
+- Scalable Mobile and Web Applications
+- Clean Software Engineering Practices
+
+---
+
+## <img src="https://api.iconify.design/fa6-solid/lightbulb.svg?color=white" width="24" alt="Lightbulb" align="center"> Beyond Software
+
+Outside programming, you'll usually find me taking time for:
+
+<img src="https://api.iconify.design/fa6-solid/pen-nib.svg?color=white" width="16" alt="Design"> Designing user interfaces and graphics
+
+<img src="https://api.iconify.design/fa6-solid/cube.svg?color=white" width="16" alt="3D"> Exploring Blender and 3D visualization
+
+<img src="https://api.iconify.design/fa6-solid/camera.svg?color=white" width="16" alt="Camera"> Photography and digital media
+
+<img src="https://api.iconify.design/fa6-solid/brain.svg?color=white" width="16" alt="Brain"> Reading psychology and product design
+
+<img src="https://api.iconify.design/fa6-solid/earth-africa.svg?color=white" width="16" alt="Earth"> Exploring technology solutions for local African challenges
+
+---
+
+## <img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=white" width="24" alt="Bullseye" align="center"> Philosophy
+
+> **Build software that solves real problems.**
+>
+> *Simple systems that people actually use create more impact than complex systems nobody understands.*
+
+---
+
+
